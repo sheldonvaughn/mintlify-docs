@@ -16,7 +16,7 @@
           {
             "group": "Get Started",
             "pages": [
-              "index",
+              "introduction",
               "quickstart",
               "development"
             ]
@@ -36,33 +36,12 @@
       },
       {
         "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
+        "url": "api-reference",
+        "openapi": "https://spec.speakeasy.com/sheldon-vaughn-test/sandbox/swagger-petstore---open-api-3-0-with-code-samples"
       }
     ],
     "global": {
       "anchors": [
-          {
-          "name": "API Reference",
-          "openapi": "https://spec.speakeasy.com/sheldon-vaughn-test/sandbox/swagger-petstore---open-api-3-0-with-code-samples",
-          "url": "api-reference",
-          "icon": "square-terminal"
-        },
         {
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
