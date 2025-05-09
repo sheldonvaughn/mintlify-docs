@@ -62,7 +62,7 @@
           "openapi": "https://spec.speakeasy.com/sheldon-vaughn-test/sandbox/swagger-petstore---open-api-3-0-with-code-samples",
           "href": "https://mintlify.com/api-reference",
           "icon": "square-terminal"
-        }
+        },
         {
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
